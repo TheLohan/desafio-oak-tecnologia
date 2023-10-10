@@ -1,0 +1,16 @@
+mat-card{
+  padding: 20px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+.buttonContainer{
+  display: flex;
+}
+
+button{
+  margin: 20px 15px 0px 0px;
+}
